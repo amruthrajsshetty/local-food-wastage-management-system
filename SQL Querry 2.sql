@@ -1,0 +1,4 @@
+SELECT COUNT(*) FROM Providers;
+SELECT COUNT(*) FROM Receivers;
+SELECT COUNT(*) FROM Food_Listings;
+SELECT COUNT(*) FROM Claims;
